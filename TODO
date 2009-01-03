@@ -1,0 +1,24 @@
+Major/minor TODOS file/changelog reference for mscanner
+$Id: TODO 11 2006-09-22 10:06:07Z gavin $
+
+Silly Key:
+	[x] - Complete
+	[_] - Incomplete
+	[/] - Partially completed/buggy
+	[!] - Removed/deferred.
+
+0.1
+	[x] Handle multiple path arguments
+	[x] Show percentage of genres
+		- [x] By tracks?
+		- [_] or by albums?
+		- [!] even artists? (no)
+	[x] Handle mp3
+	[_] Handle ogg
+	[x] Networking between clients
+		- [ ] Calculate similarity
+		- [x] Show diffs of music collections
+		- [x] Use icons in TreeStore
+
+0.2+
+	...
